@@ -22,4 +22,3 @@ n = len(arr)
 Ans = largest(arr,n)
 print ("Largest in given array is",Ans)
 
-# This code is contributed by Smitha Dinesh Semwal
